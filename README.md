@@ -20,7 +20,7 @@ Personalized Suggestions: Receive tailored suggestions on items to remove and ad
 Scripting Language: Python Deployment partner: Streamlit
 
 # Video Demo!
-Project demo :- https://youtu.be/NA1Uum-cH3Y?si=Tc6dj_2BOC0s1Lsj
+Project demo :- https://youtu.be/AE-BtRsy40o?si=5FLC-oq3aG0vMNd4 
 
 # 💫 Getting Started
 Clone the repository: git clone https://github.com/Tubati-jayasree/AI-Nutritionist-App
@@ -33,8 +33,7 @@ Configure API key: Visit Google's Gemini Pro Vision API to obtain your API key, 
 Run the Streamlit app: streamlit run app.py Upload an image of your meal. Click the "Tell me about my meal" button to receive nutritional insights.
 
 # Project documentation
-[SI-6438-1728501582 (1).pdf](https://github.com/user-attachments/files/17325482/SI-6438-1728501582.1.pdf)
-
+[SI-6438-1728501582 (1).pdf](https://github.com/user-attachments/files/17329044/SI-6438-1728501582.1.pdf)
 
 # 👥 Contributing
 Contributions are welcome! If you have ideas, bug reports, or want to add new features, please open an issue or submit a pull request.
